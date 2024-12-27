@@ -1,0 +1,302 @@
+{
+    "students":[
+        {
+            "id": 1,
+            "name": "Ahmed"
+        },
+        {
+            "id": 2,
+            "name": "Fatima"
+        },
+        {
+            "id": 3,
+            "name": "Hassan"
+        },
+        {
+            "id": 4,
+            "name": "Ayesha"
+        },
+        {
+            "id": 5,
+            "name": "Bilal"
+        }
+    ],
+    "courses":[
+        {
+            "id": 1,
+            "name": "Maths"
+        },
+        {
+            "id": 2,
+            "name": "Physics"
+        },
+        {
+            "id": 3,
+            "name": "Chemistry"
+        },
+        {
+            "id": 4,
+            "name": "Biology"
+        },
+        {
+            "id": 5,
+            "name": "Computer Science"
+        }
+    ],
+    "results":[
+        {
+            "student_id": 1,
+            "course_id": 1,
+            "marks": 90
+        },
+        {
+            "student_id": 1,
+            "course_id": 2,
+            "marks": 85
+        },
+        {
+            "student_id": 1,
+            "course_id": 3,
+            "marks": 80
+        },
+        {
+            "student_id": 1,
+            "course_id": 4,
+            "marks": 75
+        },
+        {
+            "student_id": 1,
+            "course_id": 5,
+            "marks": 70
+        },
+        {
+            "student_id": 2,
+            "course_id": 1,
+            "marks": 85
+        },
+        {
+            "student_id": 2,
+            "course_id": 2,
+            "marks": 80
+        },
+        {
+            "student_id": 2,
+            "course_id": 3,
+            "marks": 75
+        },
+        {
+            "student_id": 2,
+            "course_id": 4,
+            "marks": 70
+        },
+        {
+            "student_id": 2,
+            "course_id": 5,
+            "marks": 65
+        },
+        {
+            "student_id": 3,
+            "course_id": 1,
+            "marks": 80
+        },
+        {
+            "student_id": 3,
+            "course_id": 2,
+            "marks": 75
+        },
+        {
+            "student_id": 3,
+            "course_id": 3,
+            "marks": 70
+        },
+        {
+            "student_id": 3,
+            "course_id": 4,
+            "marks": 65
+        },
+        {
+            "student_id": 3,
+            "course_id": 5,
+            "marks": 60
+        },
+        {
+            "student_id": 4,
+            "course_id": 1,
+            "marks": 75
+        },
+        {
+            "student_id": 4,
+            "course_id": 2,
+            "marks": 70
+        },
+        {
+            "student_id": 4,
+            "course_id": 3,
+            "marks": 65
+        },
+        {
+            "student_id": 4,
+            "course_id": 4,
+            "marks": 60
+        },
+        {
+            "student_id": 4,
+            "course_id": 5,
+            "marks": 55
+        },
+        {
+            "student_id": 5,
+            "course_id": 1,
+            "marks": 70
+        },
+        {
+            "student_id": 5,
+            "course_id": 2,
+            "marks": 65
+        },
+        {
+            "student_id": 5,
+            "course_id": 3,
+            "marks": 60
+        },
+        {
+            "student_id": 5,
+            "course_id": 4,
+            "marks": 55
+        },
+        {
+            "student_id": 5,
+            "course_id": 5,
+            "marks": 50
+        }
+    ],
+    "attendance":[
+        {
+            "student_id": 1,
+            "course_id": 1,
+            "attendance": 90
+        },
+        {
+            "student_id": 1,
+            "course_id": 2,
+            "attendance": 85
+        },
+        {
+            "student_id": 1,
+            "course_id": 3,
+            "attendance": 80
+        },
+        {
+            "student_id": 1,
+            "course_id": 4,
+            "attendance": 75
+        },
+        {
+            "student_id": 1,
+            "course_id": 5,
+            "attendance": 70
+        },
+        {
+            "student_id": 2,
+            "course_id": 1,
+            "attendance": 85
+        },
+        {
+            "student_id": 2,
+            "course_id": 2,
+            "attendance": 80
+        },
+        {
+            "student_id": 2,
+            "course_id": 3,
+            "attendance": 75
+        },
+        {
+            "student_id": 2,
+            "course_id": 4,
+            "attendance": 70
+        },
+        {
+            "student_id": 2,
+            "course_id": 5,
+            "attendance": 65
+        },
+        {
+            "student_id": 3,
+            "course_id": 1,
+            "attendance": 80
+        },
+        {
+            "student_id": 3,
+            "course_id": 2,
+            "attendance": 75
+        },
+        {
+            "student_id": 3,
+            "course_id": 3,
+            "attendance": 70
+        },
+        {
+            "student_id": 3,
+            "course_id": 4,
+            "attendance": 65
+        },
+        {
+            "student_id": 3,
+            "course_id": 5,
+            "attendance": 60
+        },
+        {
+            "student_id": 4,
+            "course_id": 1,
+            "attendance": 75
+        },
+        {
+            "student_id": 4,
+            "course_id": 2,
+            "attendance": 70
+        },
+        {
+            "student_id": 4,
+            "course_id": 3,
+            "attendance": 65
+        },
+        {
+            "student_id": 4,
+            "course_id": 4,
+            "attendance": 60
+        },
+        {
+            "student_id": 4,
+            "course_id": 5,
+            "attendance": 55
+        },
+        {
+            "student_id": 5,
+            "course_id": 1,
+            "attendance": 70
+        },
+        {
+            "student_id": 5,
+            "course_id": 2,
+            "attendance": 65
+        },
+        {
+            "student_id": 5,
+            "course_id": 3,
+            "attendance": 60
+        },
+        {
+            "student_id": 5,
+            "course_id": 4,
+            "attendance": 55
+        },
+        {
+            "student_id": 5,
+            "course_id": 5,
+            "attendance": 50
+        }
+    ]
+    
+
+}
